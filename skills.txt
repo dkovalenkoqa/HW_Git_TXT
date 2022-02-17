@@ -1,0 +1,7 @@
+Terminal
+Git
+Postman
+SQL
+Jmeter
+Python
+Fiddler
